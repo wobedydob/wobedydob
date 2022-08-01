@@ -9,7 +9,7 @@ My name is Wob, I have been working at Get Interactive as backend developer for 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wobedydob&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wobedydob&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
