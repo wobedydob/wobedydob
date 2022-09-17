@@ -1,16 +1,25 @@
-# 💫 About Me:
-My name is Wob, I have been working at Get Interactive as backend developer for 2 years now.<br>My experiences lay in PHP, MySQL, Ubuntu CLI and Object Oriented Programming.
+# 🤠 Wob Jelsma:
+Dutch Developer with expertise in PHP, MySQL, Ubuntu CLI and Object Oriented Programming.
+I currently work at Get Interactive (Digital Agency) since 2020.
+
+## 📚 Experiences
+
+[![php](https://img.shields.io/badge/php-PROFICIENT-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.com/)
+
+[![html](https://img.shields.io/badge/html5-COMPETENT-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://nl.wikipedia.org/wiki/HTML5)
+[![mysql](https://img.shields.io/badge/mysql-COMPETENT-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+[![ubuntu](https://img.shields.io/badge/ubuntu-COMPETENT-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wobedydob&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wobedydob&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wobedydob&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![css](https://img.shields.io/badge/css3-novice-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![javascript](https://img.shields.io/badge/javascript-NOVICE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
+[![apache](https://img.shields.io/badge/apache-NOVICE-D22129?style=for-the-badge&logo=apache&logoColor=white)](https://apache.org/)
 
-### 😂 Random Meme:
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![nodejs](https://img.shields.io/badge/node.js-BEGINNER-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![vuejs](https://img.shields.io/badge/vue.js-BEGINNER-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![webpack](https://img.shields.io/badge/webpack-BEGINNER-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![npm](https://img.shields.io/badge/NPM-BEGINNER-CB0000?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
----
-[![](https://visitcount.itsvg.in/api?id=Wobedydob&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💡 Featured Projects
+* [🐳 Equivoluent](https://github.com/wobedydob/equivoluent)
+* [🪀 Junior](https://github.com/wobedydob/equivoluent)
