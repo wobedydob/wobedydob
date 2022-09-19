@@ -23,3 +23,4 @@ I currently work at Get Interactive (Digital Agency) since 2020.
 ## 💡 Featured Projects
 * [🐳 Equivoluent](https://github.com/wobedydob/equivoluent)
 * [🪀 Junior](https://github.com/wobedydob/junior)
+* [🍌 Aapie](https://github.com/wobedydob/aapie)
