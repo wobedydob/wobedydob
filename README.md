@@ -2,6 +2,8 @@
 Dutch Developer with expertise in PHP, MySQL, Ubuntu CLI and Object Oriented Programming.
 I currently work at Get Interactive (Digital Agency) since 2020.
 
+Also known as [@wjelsma](https://github.com/wjelsma).
+
 ## 📚 Experiences
 
 [![php](https://img.shields.io/badge/php-PROFICIENT-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.com/)
@@ -24,3 +26,4 @@ I currently work at Get Interactive (Digital Agency) since 2020.
 * [🐳 Equivoluent](https://github.com/wobedydob/equivoluent)
 * [🪀 Junior](https://github.com/wobedydob/junior)
 * [🍌 Aapie](https://github.com/wobedydob/aapie)
+* [🎺 Fanfare](https://github.com/wobedydob/fanfare)
