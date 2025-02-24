@@ -1,6 +1,6 @@
 # 🤠 Wob Jelsma:
 Dutch Developer with expertise in PHP, MySQL, Ubuntu CLI and Object Oriented Programming.
-I currently work at Get Interactive (Digital Agency) since 2020.
+My work experience is oriented at webdevelopment and I study Software Engineering.
 
 Also known as [@wjelsma](https://github.com/wjelsma).
 
